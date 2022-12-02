@@ -1,7 +1,7 @@
 ---
 description: >-
   Here is where you can find everything that you need to know about MainDab,
-  such as (very) detailed instructions on downloading and using MainDab.
+  such as detailed instructions on downloading and using MainDab.
 ---
 
 # MainDab Documentation
